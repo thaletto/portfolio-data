@@ -1,0 +1,128 @@
+{
+  "PROJECTS": [
+    {
+      "name": "OpenGPT",
+      "description": "Open Source ChatGPT built with AI SDK and AI Elements.",
+      "link": "https://mathgpt-thaletto.vercel.app",
+      "image": "/projects/mathgpt.png",
+      "tags": ["AI SDK", "AI Agents", "Tools"],
+      "id": "PROJ5",
+      "date": "2025-08"
+    },
+    {
+      "name": "E-Commerce website & CMS",
+      "description": "E-Commerce website with a custom CMS for managing products, orders, and customers for a client.",
+      "link": "https://krcrackers.co",
+      "image": "/projects/krcrackers.png",
+      "tags": ["Next.js", "SSR", "PostgreSQL"],
+      "id": "PROJ4",
+      "date": "2024-09"
+    },
+    {
+      "name": "Lung nodule detection",
+      "description": "Complex & irregular lung nodule detection using YOLO, V-Net & DETR",
+      "link": "https://drive.google.com/file/d/1_XcKu5bFmmrTHHc4nxXetIZbXwiMjkj3/view?usp=sharing",
+      "image": "/projects/lungnodule.png",
+      "tags": ["CNN", "Transformers", "Deep Learning"],
+      "id": "PROJ3",
+      "date": "2024-05"
+    },
+    {
+      "name": "Lense",
+      "description": "AI-powered marketplace for pre-owned products with instant valuation",
+      "github": "https://github.com/thaletto/Lense",
+      "image": "/projects/lense.png",
+      "tags": ["Android Application", "Jetpack Compose", "Kotlin"],
+      "id": "PROJ2",
+      "date": "2024-02"
+    },
+    {
+      "name": "Parkinsons Disease Detection",
+      "description": "Implemented multiple supervised and unsupervised machine learning models for early parkinsons disease detection",
+      "github": "https://github.com/thaletto/Parkinson-Disease-Detection",
+      "image": "/projects/parkinsons.png",
+      "tags": ["ML", "Gradient Boost", "EDA"],
+      "id": "PROJ1",
+      "date": "2023-09"
+    }
+  ],
+  "WORK_EXPERIENCE": [
+    {
+      "company": "TCS",
+      "title": "Full Stack AI Developer",
+      "start": "2024-11-07",
+      "end": "",
+      "id": "work2"
+    },
+    {
+      "company": "Freelance",
+      "title": "Full Stack Developer",
+      "start": "2024-08-19",
+      "end": "2024-10-28",
+      "id": "work1"
+    }
+  ],
+  "EDUCATION": [
+    {
+      "typeofEducation": "university",
+      "institution": "Amrita School of Computing",
+      "degree": "B.Tech Computer Science and Engineering",
+      "start": "2020-09",
+      "end": "2024-05-06",
+      "cgpa": 7.02,
+      "id": "edu3"
+    },
+    {
+      "typeofEducation": "school",
+      "marks": 88.6,
+      "institution": "Maharishi International Residential School",
+      "degree": "CBSE XII",
+      "start": "2019",
+      "end": "2020",
+      "id": "edu2"
+    },
+    {
+      "typeofEducation": "school",
+      "marks": 82.6,
+      "institution": "Maharishi International Residential School",
+      "degree": "CBSE X",
+      "start": "2017",
+      "end": "2018",
+      "id": "edu1"
+    }
+  ],
+  "CERTIFICATES": [
+    {
+      "name": "MCP for Production Automation",
+      "issuedBy": "Hugging Face",
+      "issuedDate": "2025-06-18",
+      "link": "https://github.com/thaletto/mcp",
+      "icon": "SiHuggingface",
+      "id": "certificate"
+    },
+    {
+      "name": "Advanced React",
+      "issuedBy": "Meta",
+      "issuedDate": "2024-02",
+      "link": "https://www.coursera.org/verify/GVQDTDYQVGJ6",
+      "icon": "SiMeta",
+      "id": "certificate"
+    },
+    {
+      "name": "Programming Fundamentals in Kotlin",
+      "issuedBy": "Meta",
+      "issuedDate": "2023-08",
+      "link": "https://www.coursera.org/verify/W36X2TYW38KV",
+      "icon": "SiMeta",
+      "id": "certificate2"
+    },
+    {
+      "name": "Fundamentals of Visualization",
+      "issuedBy": "University of California, Davis",
+      "issuedDate": "2023-02",
+      "link": "https://www.coursera.org/verify/V7N46QJQCNBY",
+      "icon": "FaUniversity",
+      "id": "certificate1"
+    }
+  ]
+}
