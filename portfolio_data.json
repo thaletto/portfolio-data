@@ -2,7 +2,7 @@
   "PROJECTS": [
     {
       "name": "OpenGPT",
-      "description": "Open Source ChatGPT built with AI SDK and AI Elements.",
+      "description": "Open Source ChatGPT alternative built with AI SDK and AI Elements.",
       "link": "https://mathgpt-thaletto.vercel.app",
       "image": "/projects/opengpt.jpeg",
       "tags": ["AI SDK", "AI Agents", "Tools"],
@@ -126,4 +126,5 @@
     }
   ]
 }
+
 
