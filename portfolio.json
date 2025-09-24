@@ -4,7 +4,7 @@
       "name": "OpenGPT",
       "description": "Open Source ChatGPT alternative built with AI SDK and AI Elements.",
       "link": "https://opengpt-thaletto.vercel.app",
-      "image": "/projects/opengpt.jpeg",
+      "image": "/projects/opengpt.webp",
       "tags": ["AI SDK", "AI Agents", "Tools", "Next.js"],
       "id": "PROJ5",
       "date": "2025-08"
@@ -13,7 +13,7 @@
       "name": "E-Commerce website & CMS",
       "description": "E-Commerce website with a custom CMS for managing products, orders, and customers for a client.",
       "link": "https://krcrackers.co",
-      "image": "/projects/krcrackers.png",
+      "image": "/projects/krcrackers.webp",
       "tags": ["Next.js", "SSR", "PostgreSQL"],
       "id": "PROJ4",
       "date": "2024-09"
@@ -22,7 +22,7 @@
       "name": "Lung nodule detection",
       "description": "Complex & irregular lung nodule detection using YOLO, V-Net & DETR",
       "link": "https://drive.google.com/file/d/1_XcKu5bFmmrTHHc4nxXetIZbXwiMjkj3/view?usp=sharing",
-      "image": "/projects/lungnodule.png",
+      "image": "/projects/lungnodule.webp",
       "tags": ["CNN", "Transformers", "Deep Learning"],
       "id": "PROJ3",
       "date": "2024-05"
@@ -31,7 +31,7 @@
       "name": "Lense",
       "description": "AI-powered marketplace for pre-owned products with instant valuation",
       "github": "https://github.com/thaletto/Lense",
-      "image": "/projects/lense.png",
+      "image": "/projects/lense.webp",
       "tags": ["Android Application", "Jetpack Compose", "Kotlin"],
       "id": "PROJ2",
       "date": "2024-02"
@@ -40,7 +40,7 @@
       "name": "Parkinsons Disease Detection",
       "description": "Implemented multiple supervised and unsupervised machine learning models for early parkinsons disease detection",
       "github": "https://github.com/thaletto/Parkinson-Disease-Detection",
-      "image": "/projects/parkinsons.png",
+      "image": "/projects/parkinsons.webp",
       "tags": ["ML", "Gradient Boost", "EDA"],
       "id": "PROJ1",
       "date": "2023-09"
@@ -126,6 +126,7 @@
     }
   ]
 }
+
 
 
 
